@@ -11,7 +11,9 @@ The site lives in the separate Stories repo (`../Stories`), which pulls
 `stories/` in at build time. Site-design docs referenced from
 `docs/process/README.md` (`docs/plans/...`) live there now. Locked stories go
 in `stories/` (series in `stories/<series>/`) with front matter. Never put site
-code here.
+code here, and no mp3s: narration is made and hosted by the Stories repo
+(`npm run narrate`, `npm run upload-audio` there) and a story only carries
+`audioUrl`, `audioDuration` and `parts` in its front matter.
 
 This canon is deliberately separate from isles-of-yum. Don't pull its
 characters, places or rules in here.

@@ -1,0 +1,35 @@
+name: Check world data
+
+# Checks this repo's stories (and lore, if any) against the rules the Stories app builds with.
+# The app and the narrator live in RobertBeverton/Stories; this repo is content only.
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: world
+      - uses: actions/checkout@v4
+        with:
+          repository: RobertBeverton/Stories
+          ref: main
+          path: Stories
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: Stories/package-lock.json
+      - run: npm ci
+        working-directory: Stories
+      - run: node ../Stories/scripts/validate-world-data.mjs --strict --world bramble-wall
+        working-directory: world

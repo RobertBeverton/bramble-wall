@@ -35,7 +35,7 @@ Run Panel B (Cynical Editor, Bored Kid, Skeptical Parent, Continuity Auditor). O
 ## 6. Lock
 Once both passes are orchestrated and fixes applied, treat the prose as LOCKED. Create the story file according to which case applies:
 
-**Case A — standalone (no series):** `stories/<kebab-case-title>.md`. Frontmatter matches `stories/bramble-wall/book-1.md`'s shape (title, description, tags, audio, audioDuration, publishDate — today's date, draft: false) but with no `series`/`seriesOrder` fields.
+**Case A — standalone (no series):** `stories/<kebab-case-title>.md`. Frontmatter matches `stories/bramble-wall/book-1.md`'s shape (title, description, tags, publishDate — today's date, draft: false; leave out `audio`, `audioDuration`, `audioUrl` and `parts`, which the narrator and upload step add after narration) but with no `series`/`seriesOrder` fields.
 
 **Case B — book N of a NEW series (confirmed with user in step 2):**
 1. Create `reference/<series-slug>/bible.md` — the frame + slate + rules for this series, modeled on `reference/bramble-wall/bible.md`'s structure (PART A what-the-series-is, PART B survival principles, PART C fixed frame, PART D live dials, PART E slate, PART F ledgers-pointer, PART G open items). This must survive Panel C + pre-mortem (step 3) before it's treated as locked.
