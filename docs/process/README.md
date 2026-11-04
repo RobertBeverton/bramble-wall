@@ -2,7 +2,7 @@
 
 *Read me first. This tells you (and any agent) how the writing/review workflow is organized and — more importantly — WHAT TO READ WHEN. "All the files exist" is not the same as "the right file gets read first." This is that map.*
 
-*This covers the **writing side**: drafting, canon, and review. For the **site side** (frontmatter schema, build pipeline, GitHub Pages deploy), see [`docs/plans/2026-07-07-stories-site-design.md`](../plans/2026-07-07-stories-site-design.md). Finished, LOCKED reading versions get frontmatter added and move to `/stories/` for the site build; everything under `/reference/` referenced below is lore/canon/working notes and is never built into pages.*
+*This covers the **writing side**: drafting, canon, and review. For the **site side** (frontmatter schema, build pipeline, GitHub Pages deploy, narration), see the [Stories repo](https://github.com/RobertBeverton/Stories): `docs/contracts.md` and `narrator/README.md`. Finished, LOCKED reading versions get frontmatter added and move to `/stories/` for the site build; everything under `/reference/` referenced below is lore/canon/working notes and is never built into pages.*
 
 ---
 
@@ -82,9 +82,9 @@ Generating and rewriting bedtime stories for Felix & Alex (twins, 5, UK) — wri
 
 /stories/                            ← LOCKED, published stories (built into the site)
   bramble-wall/
-    book-1.md · book-1.mp3           ← reading version + narration, with frontmatter
+    book-1.md                        ← reading version, with frontmatter (audio is on R2, via audioUrl)
   trio-force/
-    book-1.md · book-1.mp3           ← Case File #1, reading version + narration, with frontmatter
+    book-1.md                        ← Case File #1, reading version, with frontmatter
   some-standalone-story.md
 ```
 
