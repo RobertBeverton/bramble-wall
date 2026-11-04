@@ -8,6 +8,7 @@ audio: "book-1.mp3"
 audioDuration: 588
 publishDate: 2026-07-08
 draft: false
+audioUrl: https://audio.kinly.download/bramble-wall/trio-force/book-1.mp3?v=aca71959
 ---
 
 # Trio Force

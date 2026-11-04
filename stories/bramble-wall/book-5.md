@@ -7,6 +7,8 @@ tags: ["adventure", "forest", "brothers", "spring", "family", "radio"]
 audio: "book-5.mp3"
 publishDate: 2026-07-08
 draft: false
+audioUrl: https://audio.kinly.download/bramble-wall/bramble-wall/book-5.mp3?v=de4ff481
+audioDuration: 1223
 ---
 
 # The Bramble Wall
