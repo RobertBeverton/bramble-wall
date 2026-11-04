@@ -6,6 +6,7 @@ audio: "the-troll-who-forgot-how-to-laugh.mp3"
 audioDuration: 1358
 publishDate: 2026-07-08
 draft: false
+audioUrl: https://audio.kinly.download/bramble-wall/the-troll-who-forgot-how-to-laugh.mp3?v=34babc1d
 ---
 
 # The Troll Who Forgot How To Laugh

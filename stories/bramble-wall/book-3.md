@@ -7,6 +7,8 @@ tags: ["adventure", "forest", "brothers", "bikes", "friendship", "cooperation"]
 audio: "book-3.mp3"
 publishDate: 2026-07-08
 draft: false
+audioUrl: https://audio.kinly.download/bramble-wall/bramble-wall/book-3.mp3?v=653e918a
+audioDuration: 900
 ---
 
 # The Bramble Wall

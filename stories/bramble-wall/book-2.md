@@ -7,6 +7,8 @@ tags: ["adventure", "forest", "brothers", "cousins", "radio", "safety"]
 audio: "book-2.mp3"
 publishDate: 2026-07-08
 draft: false
+audioUrl: https://audio.kinly.download/bramble-wall/bramble-wall/book-2.mp3?v=61a5fda5
+audioDuration: 848
 ---
 
 # The Bramble Wall

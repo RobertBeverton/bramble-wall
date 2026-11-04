@@ -7,6 +7,8 @@ tags: ["adventure", "forest", "brothers", "winter", "flood", "radio"]
 audio: "book-4.mp3"
 publishDate: 2026-07-08
 draft: false
+audioUrl: https://audio.kinly.download/bramble-wall/bramble-wall/book-4.mp3?v=c345e00d
+audioDuration: 1117
 ---
 
 # The Bramble Wall
