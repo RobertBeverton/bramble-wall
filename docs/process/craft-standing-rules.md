@@ -68,7 +68,7 @@ One story is one component of a longer reading session; 15 min max leaves room f
 
 ## Standing content & safety rules
 
-- **Child-appropriate throughout.** Nothing that frightens or winds up at lights-out (edge is allowed *mid*-story if warmth returns fully by the end).
+- **Child-appropriate throughout.** Nothing that genuinely frightens a young child (edge is allowed *mid*-story if warmth returns fully by the end).
 - **Safety modelled truthfully.** If a real device/skill is depicted (radios, safety gear, foraging), get its real behaviour right — never teach a false safety lesson.
 - **No adult-authored adventures.** The grown-ups don't secretly set up the quest; the kids author their own.
 - **Affirmations woven, never bolted on.** ~2–3 seams per story; they should feel like the story, not a moral tacked on.

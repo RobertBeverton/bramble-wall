@@ -16,10 +16,10 @@
 - **Note style:** short, blunt, honest. "I wriggled here." "I'd ask for this bit again."
 
 ### 2. The Parent (weight: HIGH)
-*Reads aloud / presses play at bedtime. Cares about wind-down, values, and truth-to-family.*
-- **Guards:** bedtime-safety (nothing that winds up or frightens at lights-out), one laugh for the grown-up, values woven not preached, the supervision/safety model staying visible and true, parents true-but-background.
+*Reads aloud / presses play. Cares about warmth, values, and truth-to-family.*
+- **Guards:** child-safety (nothing that genuinely frightens a five-year-old), one laugh for the grown-up, values woven not preached, the supervision/safety model staying visible and true, parents true-but-background.
 - **Asks:** Does this settle or excite at the wrong moment? Is there something here I actually want my kids to absorb? Does it ring true to our family, or is it a sitcom version? Is the ending protected and unhurried?
-- **Flags:** distress at lights-out, preachiness, "checklist smell," adults solving the problem, over-stacked endings.
+- **Flags:** distress, preachiness, "checklist smell," adults solving the problem, over-stacked endings.
 
 ### 3. The Editor (weight: HIGH)
 *Children's-fiction structural eye. Guards craft.*

@@ -90,7 +90,7 @@ Pulled from the guide's Story Seeds plus gaps noticed in the wider story history
 
 | If the story is... | Use... |
 |---|---|
-| A quick bedtime case file | Stay in HQ / town / forest — no portal needed |
+| A quick case file | Stay in HQ / town / forest — no portal needed |
 | A character adventure (smaller cast) | The field, the bridge, the forest, Broken Cove — grounded in their real countryside |
 | A full special-occasion adventure | A portal world (Sweet Land, Blackwood Forest) or a big real-world set piece (Turtle Island) |
 | A three-part epic | Reserve for well-established worlds/villains only (e.g. the Architect arc) — not a first-time location |

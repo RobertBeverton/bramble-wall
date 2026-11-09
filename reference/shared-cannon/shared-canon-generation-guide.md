@@ -65,7 +65,7 @@ In order of arrival: Bea's time dial · Caspian's empty spool · echo jar (one e
 - Funny moments true to both boys (STARBOARD, the P.S. about the spade)
 
 ### 2. The Trio Force Case File
-**Best for:** Regular bedtime, variety, building the universe
+**Best for:** Regular reading, variety, building the universe
 **Length:** 800–1,500 words / 5–10 min read-aloud
 **Structure:** Problem presented → HQ briefing → powers → investigation → solution → brief villain humanisation → postscript
 **Gold standard examples:** Case File #1 (Giggle Thief), Case File #15 (Echo Boy), Case File #27 (The Pointing)
@@ -77,7 +77,7 @@ In order of arrival: Bea's time dial · Caspian's empty spool · echo jar (one e
 - One clear villain mechanism (a machine, a device, a single power)
 
 ### 3. The Character Adventure (smaller cast, real world)
-**Best for:** Quick bedtime stories, younger guest characters, quieter evenings
+**Best for:** Quick stories, younger guest characters, quieter evenings
 **Length:** 600–1,000 words / 5–7 min read-aloud
 **Structure:** Something is wrong in their countryside → they investigate → they find a creature or person who needs help → they help → warm ending
 **Gold standard examples:** The Troll Who Forgot How To Laugh, The Parliament of Birds, The Cloud That Wouldn't Leave, The Sea Goblin of Broken Cove
@@ -303,7 +303,7 @@ These are the things that, when violated even slightly, made stories feel wrong:
 
 ## Format Guide for Story Requests
 
-### For a bedtime story (5–7 min)
+### For a short story (5–7 min)
 > "Short case file, Felix Alex Amelia, new powers, [one line villain description]. Keep it under 900 words."
 
 ### For a special occasion read (12–15 min)

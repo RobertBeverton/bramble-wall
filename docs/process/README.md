@@ -7,7 +7,7 @@
 ---
 
 ## What this workflow is for
-Generating and rewriting bedtime stories for Felix & Alex (twins, 5, UK) — writing new stories, rewriting old ones from the archive, reviewing them with a persona panel, and producing ElevenLabs narration. Three tracks: the **Bramble Wall** grounded forest series (a finite 5-book set, complete), the **restarted Trio Force** series (open-ended, numbered case files, own bible — see below), and the **wider shared-cannon magic universe** (the big pre-restart back-catalogue, unnumbered legacy material).
+Generating and rewriting stories for Felix & Alex (twins, 5, UK) — writing new stories, rewriting old ones from the archive, reviewing them with a persona panel, and producing ElevenLabs narration. Three tracks: the **Bramble Wall** grounded forest series (a finite 5-book set, complete), the **restarted Trio Force** series (open-ended, numbered case files, own bible — see below), and the **wider shared-cannon magic universe** (the big pre-restart back-catalogue, unnumbered legacy material).
 
 ---
 
